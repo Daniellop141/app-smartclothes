@@ -8,7 +8,7 @@ inventario = [
     {"dato": "Zapatos Deportivos", "talla": "42", "color": "Blanco", "precio": 150000},
     {"dato": "Chaqueta Roja", "talla": "L", "color": "Rojo", "precio": 120000},
     {"dato": "Vestido Verde", "talla": "S", "color": "Verde", "precio": 85000},
-    
+    {"dato": "Gorra Negra", "talla": "Única", "color": "Negro", "precio": 30000},
 ]
 
 # Función para recomendar prendas según los filtros ingresados por el usuario
